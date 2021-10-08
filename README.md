@@ -7,11 +7,11 @@
 <a href="#"><img title="LIZA MWOL" src="https://img.shields.io/badge/LIZA MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href=https://github.com/Chunkindepadayali"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-LIZAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href=https://github.com/Sirajju"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-LIZAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> to make it public
+Project created by <a href="https://github.com/Sirajju">LIZA MWOL</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chunkindepadayali/LIZA-MWOL) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sirajju/LIZA-MWOL) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
   
@@ -50,7 +50,7 @@ $ node Liza.js
 ----
 
   <p align="center">
-  <a href="https://github.com/Chunkindepadayali/LIZA-MWOL">
+  <a href="https://github.com/Sirajju/LIZA-MWOL">
     
 <a href="https:https://github.com/Chunkindepadayali?tab=followers">
 <img src="https://img.shields.io/github/repo-size/Chunkindepadayali/LIZA-MWOL?color=green&label=Repo%20total%20size&style=plastic">
@@ -89,9 +89,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-[![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) | [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+[![Sirajju](https://github.com/Sirajju.png?size=100)](https://github.com/Sirajju) | [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![TOXIC-DEVIL](https://github.com/TOXIC-DEVIL.png?size=100)](https://github.com/TOXIC-DEVIL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----|----
-[Chunkindepadayali](https://github.com/Chunkindepadayali) | [farhan-dqz](https://github.com/farhan-dqz) | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[Sirajju](https://github.com/Sirajju) | [farhan-dqz](https://github.com/farhan-dqz) | [TOXIC-DEVIL](https://github.com/TOXIC-DEVIL) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Modifiying as public | Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
